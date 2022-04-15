@@ -1,0 +1,53 @@
+	<!DOCTYPE html>
+	<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<h1 style="color:greenyellow;text-shadow: 2px 2px 20px greenyellow;"align="center">● Autobiografia ●</h1>
+		<h2 style="color:whitesmoke;text-shadow: 1px 1px 10px white;"align="center">Aguinaldo Martins</h2>
+		<title>Biografia de Aguinaldo Martins</title> 
+		<br>
+	</head>
+	<body>
+		<body style="background-color:black; font-size: 15pt;">
+			<p style="color:orangered;text-shadow: 2px 2px 20px orangered;" align="center">Olá! Meu nome é Aguinaldo Martins. Seja bem-vindo ao meu site!</p>
+			<br>
+			<h2 style="color:blueviolet;text-shadow: 2px 2px 20px blueviolet;">Sobre mim </h2>
+			<p style="color:white;">➽ Oi! Meu nome é Aguinaldo e tenho 18 anos. Sou um cara muito tranquilo, adoro conhecer novas pessoas e fazer novas amizades. Estou sempre buscando intensa conexão. A presença real das pessoas está bem escassa, por isso é algo que valorizo muito nelas. 
+				<br><br>
+				Eu amo ler livros que possam me agregar valor e amo aprender coisas novas. Para mim a natureza e o universo é maravilhoso e fazemos parte dessa unicidade. A meditação faz parte do meu estilo de vida. Para mim é algo fundamental para a vida, para o manifestar de si mesmo e para a conexão com Deus (Independente de religião).
+				<br><br>
+				Faço musculação constantemente, porém minha alimentação não é regrada. Adoro comer pizza, hambúrguer, tomar refrigerante e coisas que diminuem nossa expectiva de vida. Mas é claro, tem um equilíbrio, Hahaha! ☯
+				<br><br>
+				Sobre hobbies, tenho vários. Sempre que tenho tempo, assisto um filme ou série, anime, gosto bastante de jogos eletrônicos, ler, ouvir música, treinar musculação, viajar e conhecer novas culturas, curto ir em festas, novos lugares e me conectar com as pessoas e estou sempre explorando novas oportunidades.
+				<br><br>
+				Busco liberdade financeira, geográfica e de tempo. Isso vai melhorar e facilitar bastante minha situação de vida. Digo "situação de vida" por que a felicidade está dentro de nós e infelizmente muitas pessoas buscam ela no exterior do nosso ser, no entanto, nunca irão encontrá-la.
+				<br><br>
+				Sou um cara abundante em todas as áreas da vida. Vivo uma vida extravagante!
+				Acredito muito na expressão "Ser para ter".
+				<br>
+				<h2 style="color:blueviolet;text-shadow: 2px 2px 20px blueviolet;">Vida Profissional</h2>
+				<p style="color:white;">➽ Sou estudante de Sistemas para Internet no IF Goiano - Campus Morrinhos e estou cursando Ciências Econômicas na Unicesumar. Além disso estou me preparando para fazer os concursos da PM (Polícia Militar) e da AFA (Academia da Força Aérea).
+					<br>
+					Profissionalmente, pretendo servir à Força Aérea Brasileira como piloto de caça. ✈
+					<br>
+					Estou em busca de concluir esse objetivo!
+				</p>
+				<br></br>                             
+			</body>
+			<footer>
+				<p style="color:greenyellow;text-shadow: 2px 2px 20px greenyellow;"align="center"> Feito por: <a style="color:white"> Aguinaldo Martins</a></p>
+				<center>
+					<img src="autobiografia_foto.jpg"height="20%" width="20%">
+				</center>
+				<body>
+					<h2 style="color:greenyellow;text-shadow: 2px 2px 20px greenyellow;">Contato</h2>
+				</body>
+				<p style="color:blueviolet;text-shadow: 2px 2px 20px blueviolet;"> Instagram: <a style="color:white;" href="https://www.instagram.com/manoguinas/?hl=pt-br">@manoguinas</a></p> 
+				<p style="color:blueviolet;text-shadow: 2px 2px 20px blueviolet;"> Github: <a style="color:white;" href="https://github.com/manoguinas">manoguinas</a> </p>
+				<p style="color:blueviolet;text-shadow: 2px 2px 20px blueviolet;"> E-mail: <a style="color:white;" href="mailto:aguinaldomartins13@hotmail.com">aguinaldomartins13@hotmail.com</a> </p>
+				<p style="color:orangered;"align="center">2022</p>
+			</footer>
+
+		</body>
+		</html>
