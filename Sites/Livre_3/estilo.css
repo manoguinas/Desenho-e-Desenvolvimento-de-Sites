@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');
+
+*{
+	font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	background-color: black;
+}
+
+ul li{
+	background-color: darkblue;
+	color: white;
+	padding: 20px;
+	display: inline-flex;
+}
+
+ul li:hover{
+	background-color: darkred;
+	cursor: pointer;
+}
+
+#h1p{
+	color: white;
+	background-color: darkred;
+	width: 30%;
+	margin: auto;
+	cursor: default;
+	text-align: center;
+	border-radius: 15px;
+}
+
+#h1p:hover{
+	background-color: black;
+	cursor: pointer;
+}
+
+h4{
+	background-color: rgba(0, 0, 0, 0.8);
+	color: white;
+	border-radius: 15px;
+	text-align: center;
+	cursor: default;
+}
+
+p{
+	color: white;
+	text-shadow: 1px 1px 1px black, 1px 1px 1px black, 1px 1px 1px black;
+	text-align: justify;
+	background-color: rgba(0, 0, 0, 0.1); 
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+#copy{
+	color: navajowhite;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.0);
+}
+
+div{
+	background-color: rgba(0, 0, 0, 0.8);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 50px;
+	border-radius: 15px;
+	color: white;
+	cursor: default;
+}
+
+input{
+	border: none;
+	outline: none;
+	padding: 15px;
+}
+
+button{
+	background-color: dodgerblue;
+	border: none;
+	padding: 15px;
+	width: 100%;
+	border-radius: 10px;
+	color: white;
+}
+
+button:hover{
+	background-color: deepskyblue;
+	cursor: pointer;
+}
