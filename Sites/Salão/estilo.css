@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Splash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arima&display=swap');
+
+*{
+	font-family: 'Arima', cursive;
+}
+
+#p1{
+	font-size: 15pt;
+	text-shadow: 1px 1px 1px deeppink;
+	color: white;
+}
+
+p{
+	font-size: 13pt;
+	text-align: center;
+	text-shadow: 1px 1px 1px deeppink;
+	color: white;
+}
+
+h1{
+	text-shadow: 1px 1px 1px white;
+	font-family: 'Splash', cursive;
+	text-align: center;
+	color: deeppink;
+}
+
+h2{
+	color: deeppink;
+	text-align: center;
+	text-shadow: 1px 1px 1px white;
+}
+
+ul {
+	margin: 0;
+	padding:0;
+	text-align: center;
+}
+
+li {
+	list-style: none; 
+	margin: 10px;
+	display: inline;
+}
+li a {
+	padding: 5px 10px; 
+	margin:0;
+	border: 0px solid #f00; 
+	background: #903;
+	text-decoration: none;
+	color:#FFF;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+}
+li a:hover {
+	background: rgb(255, 75, 75);
+	color: white; 
+	border-color: #000;
+	transition: 300ms;
+}
+
+div{
+	background-color: rgba(100, 0, 0, 0.1);
+
+}
+
+img{
+	height: 200px; width: 400px;
+	border-radius: 20px;
+}
+
+.b1{
+    all: unset;
+    color: white;
+    padding: 7px;
+    border-radius: 10px;
+    transition: 300ms;
+    background-color: rgba(100, 0, 0, 0.5);
+}
+
+.b1:hover {
+    background-color: rgb(255, 75, 75);
+    color: white;
+    cursor: pointer;
+}
+
+.b_agendar {
+    all: unset;
+    position: absolute;
+    top: 95%;
+    right: 47%;
+    color: white;
+    padding: 7px;
+    border-radius: 10px;
+    font-size: 'Splash', cursive;
+    transition: 300ms;
+    background-color: rgba(150, 0, 0, 0.8);
+}
+
+.b_agendar:hover {
+    background-color: rgb(255, 75, 75);
+    color: white;
+    cursor: pointer;
+}
+
+nav{
+	background-color: rgba(150, 0, 0, 0.1);
+	padding: 7px;
+	border-radius: 10px;
+}
+
