@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+  color: navajowhite;
+  text-shadow: 1px 1px 1px black;
+  background-color: saddlebrown;
+  border-radius: 10px;
+  padding: 4px;
+}
+
+h2{
+  font-size: 2rem;
+  text-align: center;
+  color: black;
+  font-family: 'Playfair Display', serif;
+}
+
+h3{
+  text-align: center;
+  font-size: 2rem;
+}
+
+p, li {
+  line-height: 1.5;
+  font-size: 13pt;
+  list-style: none;
+  text-align: justify;
+}
+
+a{
+	text-decoration: none;
+  list-style: none;
+  color: brown;
+}
+
+nav, article, aside, footer {
+  background-color: white;
+  padding: 1%;
+}
+
+#nav2{
+  height: 80px;
+}
+
+nav {
+  height: 50px;
+  background-color: sandybrown;
+  display: flex;
+  margin-bottom: 10px;
+}
+
+nav ul {
+  padding: 0;
+  list-style-type: none;
+  flex: 2;
+  display: flex;
+}
+
+#copy{
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  text-align: center;
+  flex: 1;
+  text-decoration: none;
+}
+
+nav a {
+  display: inline-block;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+}
+
+nav form {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 0 2em;
+}
+
+input {
+  font-size: 1.6rem;
+  height: 32px;
+}
+
+input[type="search"] {
+  flex: 3;
+}
+
+input[type="submit"] {
+  flex: 1;
+  margin-left: 1rem;
+  background: #333;
+  border: 0;
+  color: white;
+}
+
+
+main {
+  display: flex;
+}
+
+article {
+  flex: 4;
+}
+
+aside {
+  flex: 1;
+  margin-left: 10px;
+  background-color: sandybrown;
+  display: block;
+  padding: 1%;
+  margin-right: 10px;
+}
+
+aside li {
+  padding-bottom: 10px;
+}
+
+footer {
+  margin-top: 10px;
+}
+
+img{
+  width: 250px;
+}
